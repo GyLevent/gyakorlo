@@ -1,0 +1,2 @@
+# gyakorlo
+Git Gyakorlo
